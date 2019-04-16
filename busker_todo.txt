@@ -1,0 +1,6 @@
+--- TODO ---
+
+- EXTEND PARTITION SIZE!
+- Make BRANCHES on GIT!
+- Experiment with the firebase and get used to it!
+- Get used to React!
